@@ -1,0 +1,24 @@
+{
+  "name": "jumper423/yii2-bonus-code",
+  "description": "Yii2 Bonus code",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "Bonus",
+    "code"
+  ],
+  "authors": [
+    {
+      "name": "jumper423",
+      "email": "jump.e.r@yandex.ru"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "jumper423\\module\\bonus\\": ""
+    }
+  }
+}
