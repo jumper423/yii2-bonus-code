@@ -1,9 +1,13 @@
 <?php
 
+namespace jumper423\module\bonus\migrations;
+
+use yii\db\Migration;
+
 /**
  * Class m160516_003255_create_bonus
  */
-class m160516_003255_create_bonus extends \yii\db\Migration
+class m160516_003255_create_bonus extends Migration
 {
     public function up()
     {
